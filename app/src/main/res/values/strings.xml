@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragments e Activities</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="beta_one">Beta One</string>
+    <string name="beta_two">Beta Two</string>
+    <string name="to_fragment_three">Click to Fragment Three</string>
+    <string name="to_fragment_one">Click to Fragment two</string>
+    <string name="click_to_close_fragment">Click to close Fragment</string>
+    <string name="beta_three">Beta Three</string>
+    <string name="main_activity">Main Activity</string>
+</resources>
